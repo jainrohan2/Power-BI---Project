@@ -1,7 +1,7 @@
 # Power-BI---Project
 Sample Power BI Project for Airbnb.
 
-Objective: Gain a comprehensive understanding of Airbnb's operational dynamics and derive actionable insights from the data utilizing Power BI tools, including Power BI Desktop, Query Editor, and DAX Queries.
+Objective: To gain a comprehensive understanding of Airbnb's operational dynamics and derive actionable insights from the data, I utilized Power BI tools, including Power BI Desktop, Query Editor, and DAX Queries.
 
 Finding of Airbnb project:
 
